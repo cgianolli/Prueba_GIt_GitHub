@@ -1,0 +1,26 @@
+
+git add mi_primer_programa.py     
+
+git commit -m 'Mi primer programa'
+
+PS C:\Users\Martina\Desktop\ClaudioPython\ProgramasPrueba\Git-GitHub> git push -u origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 294 bytes | 147.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/cgianolli/Prueba_GIt_GitHub.git
+   a6ede2d..4cee517  master -> master
+branch 'master' set up to track 'origin/master'.
+PS C:\Users\Martina\Desktop\ClaudioPython\ProgramasPrueba\Git-GitHub> git branch
+* master
+
+OJO..
+PS C:\Users\Martina\Desktop\ClaudioPython\ProgramasPrueba\Git-GitHub> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Notas.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
